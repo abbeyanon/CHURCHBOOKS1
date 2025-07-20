@@ -1,0 +1,6 @@
+[submodule "apps/cfms_plus"]
+	path = apps/cfms_plus
+	url = https://github.com/abbeyanon/cfms_plus.git
+[submodule "apps/lms_app"]
+	path = apps/lms_app
+	url = https://github.com/abbeyanon/lms_app.git
